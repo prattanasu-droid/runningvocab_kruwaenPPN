@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Word Runner 3D",
+  "description": "เกม 3D Runner สไตล์ Gemini วิ่งกระโดดเก็บตัวอักษรภาษาอังกฤษ เมื่อครบคำมีหน้าต่างแปลภาษาไทยพร้อมคะแนนโบนัสและคลังคำศัพท์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
